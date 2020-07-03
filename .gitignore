@@ -1,1 +1,4 @@
 metadata.json
+tests-main.cpp
+catch.hpp
+build/
